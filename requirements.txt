@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic 
+httpx
+click
+alembic
+jinja2
+starlette
+python-dotenv
+pytest
